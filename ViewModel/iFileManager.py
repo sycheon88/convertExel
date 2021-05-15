@@ -10,4 +10,3 @@ class iFileManager(object):
 
     def save(self):
         pass
-
